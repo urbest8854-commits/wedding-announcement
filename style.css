@@ -292,6 +292,13 @@ main {
   color: var(--muted);
 }
 
+.wedding-divider {
+  width: 48px;
+  height: 1px;
+  background-color: #d8cec3;
+  margin: 32px auto 56px;
+}
+
 /* ========================================
    Gallery
 ======================================== */
