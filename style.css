@@ -918,6 +918,24 @@ main {
     font-size: 18px;
   }
 }
+
+/* 결혼식 안내 및 양해 문구 */
+.notice-box {
+  margin: 28px 20px;
+  padding: 22px 16px;
+  background-color: #F7F2EA;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.notice-box p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.9;
+  color: #6F6258;
+  word-break: keep-all;
+}
+
 /* =========================
    DESKTOP
    ========================= */
